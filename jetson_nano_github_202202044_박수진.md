@@ -36,6 +36,11 @@ day 1 :
 ![KakaoTalk_20241128_215122143_15](https://github.com/user-attachments/assets/6159f73f-805a-484f-b3b9-2388ee6ccbd0)
 ![KakaoTalk_20241128_215122143_17](https://github.com/user-attachments/assets/c95807d0-4bbe-4ec8-b5f5-a5c0cdcfc87b)
 ![KakaoTalk_20241128_215122143_18](https://github.com/user-attachments/assets/ae50df59-96ef-43fa-a0d9-86e638e95146)
+
+```
+3. L4T-Readme 살펴보기 & ifconfig
+```
+
 ![KakaoTalk_20241128_215122143_19](https://github.com/user-attachments/assets/3d77df6f-0ff0-4d9a-b201-8dc84d2dff2e)
 ![KakaoTalk_20241128_215122143_21](https://github.com/user-attachments/assets/3263f7eb-895d-4bb7-8be7-e3aba589c84a)
 ![KakaoTalk_20241128_215122143_22](https://github.com/user-attachments/assets/5828ac46-de94-413e-93e6-8cf08725c402)
