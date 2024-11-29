@@ -45,6 +45,11 @@ day 1 :
 ![KakaoTalk_20241128_215122143_26](https://github.com/user-attachments/assets/bd2d09fa-d29c-421d-bee4-adaa42f379a3)
 ![KakaoTalk_20241128_215122143_28](https://github.com/user-attachments/assets/9d038fcb-3435-4bb4-9bec-5b983047220b)
 ![KakaoTalk_20241128_215122143_29](https://github.com/user-attachments/assets/c8c6cc3a-d95d-4612-9213-36895f6110e6)
+
+```
+잭슨 나노 한글 설치
+```
+
 ![KakaoTalk_20241128_215141595_02](https://github.com/user-attachments/assets/f7dce8e4-fcf5-4de0-af0f-b5ab9ec1159d)
 ![KakaoTalk_20241128_215141595_04](https://github.com/user-attachments/assets/80d9d093-4d5f-4e84-b0ce-0a96d1f37363)
 ![KakaoTalk_20241128_215141595_05](https://github.com/user-attachments/assets/aedcd221-7d2b-4f8e-b1c2-94324350168b)
@@ -57,11 +62,6 @@ day 1 :
 ![KakaoTalk_20241128_215141595_15](https://github.com/user-attachments/assets/21d843cb-2993-4d9a-b65f-c94e2d94d5b0)
 ![KakaoTalk_20241128_215141595_16](https://github.com/user-attachments/assets/0aec0515-3358-42de-a6d5-82ffba3369a8)
 ![KakaoTalk_20241128_215141595_17](https://github.com/user-attachments/assets/9787bb6d-34c8-42f6-8ffa-118f4538b00e)
-
-```
-잭슨 나노 한글 설치
-```
-
 ![KakaoTalk_20241114_184028807](https://github.com/user-attachments/assets/e7bd0456-608a-486b-8ed4-6df9e4007686)
 ![KakaoTalk_20241114_184028807_01](https://github.com/user-attachments/assets/6f5923d1-277b-4f20-a6fa-071122d3d931)
 ![KakaoTalk_20241114_184028807_02](https://github.com/user-attachments/assets/53871aeb-74bb-432b-b43c-2ce575c0791e)
