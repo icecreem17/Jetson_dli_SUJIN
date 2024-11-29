@@ -1,4 +1,4 @@
-# Jetson_dli_SUJIN
+# Jetson_dli_202202044_박수진
 
 ### 잭슨 나노 일대기
 
@@ -71,8 +71,9 @@
 ![KakaoTalk_20241114_184028807_04](https://github.com/user-attachments/assets/548d8c5e-c6bb-44b4-badc-056601b73fe8)
 ![Screenshot from 2024-11-14 20-51-02](https://github.com/user-attachments/assets/46ddcb10-888a-4458-9901-f863b119ff4d)
 
+#### day 2 :
+
 ```
-day 2 :
 1. 잭슨 나노 영상 캡쳐 이미지
 ```
 
@@ -92,8 +93,9 @@ https://github.com/user-attachments/assets/753b3ac5-ee2d-4176-bb74-15c2a446380b
 ![Screenshot from 2024-11-14 21-45-16](https://github.com/user-attachments/assets/950ff074-5eb5-486b-b481-387118ec2d9f)
 ![Screenshot from 2024-11-14 21-45-32](https://github.com/user-attachments/assets/60e8b810-42c9-4dd8-8294-44478b930d15)
 
+#### day 3 :
+
 ```
-day 3 :
 1. 엔비디아 사진 다운로드 완료 & 주피터 노트북 url생성
 ```
 
