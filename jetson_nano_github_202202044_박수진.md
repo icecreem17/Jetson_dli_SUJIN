@@ -9,7 +9,7 @@
 ```
 
 ![KakaoTalk_20241128_214356790_04](https://github.com/user-attachments/assets/1bc22d5f-6785-476f-ac9a-f135a0e2cbf7)
-
+####
 ```
 2. 우분투 설치
 ```
@@ -33,7 +33,7 @@
 ![KakaoTalk_20241128_215122143_15](https://github.com/user-attachments/assets/6159f73f-805a-484f-b3b9-2388ee6ccbd0)
 ![KakaoTalk_20241128_215122143_17](https://github.com/user-attachments/assets/c95807d0-4bbe-4ec8-b5f5-a5c0cdcfc87b)
 ![KakaoTalk_20241128_215122143_18](https://github.com/user-attachments/assets/ae50df59-96ef-43fa-a0d9-86e638e95146)
-
+####
 ```
 3. L4T-Readme 살펴보기 & ifconfig
 ```
@@ -47,7 +47,7 @@
 ![KakaoTalk_20241128_215122143_26](https://github.com/user-attachments/assets/bd2d09fa-d29c-421d-bee4-adaa42f379a3)
 ![KakaoTalk_20241128_215122143_28](https://github.com/user-attachments/assets/9d038fcb-3435-4bb4-9bec-5b983047220b)
 ![KakaoTalk_20241128_215122143_29](https://github.com/user-attachments/assets/c8c6cc3a-d95d-4612-9213-36895f6110e6)
-
+####
 ```
 4. 잭슨 나노 한글 설치
 ```
@@ -79,13 +79,13 @@
 
 ![image](https://github.com/user-attachments/assets/4f6050d6-6fe3-41dd-886a-4f8b2a7a6888)
 ![Screenshot from 2024-11-14 20-59-17](https://github.com/user-attachments/assets/1ddb0609-342e-42b7-8a71-1262b339d05b)
-
+####
 ```
 2. 잭슨 나노 영상 캡쳐 동영상
 ```
 
 https://github.com/user-attachments/assets/753b3ac5-ee2d-4176-bb74-15c2a446380b
-
+####
 ```
 3. 엔비디아 사진 다운로드
 ```
@@ -100,7 +100,7 @@ https://github.com/user-attachments/assets/753b3ac5-ee2d-4176-bb74-15c2a446380b
 ```
 
 ![Screenshot from 2024-11-21 18-54-55](https://github.com/user-attachments/assets/9586b14b-d830-40a7-b480-eaff1186b8e7)
-
+####
 ```
 2. 스왑 18기가 생성
 ```
@@ -111,19 +111,19 @@ https://github.com/user-attachments/assets/753b3ac5-ee2d-4176-bb74-15c2a446380b
 ![Screenshot from 2024-11-21 20-20-05](https://github.com/user-attachments/assets/9793be0a-ea05-4966-9041-73e2d057b8b4)
 
  -> 메모리가 1.9기가 에서 18기가로 늘어난 것을 볼 수 있음
-
+####
 ```
 3. 주피터 노트북 접속
 ```
 
 ![Screenshot from 2024-11-21 19-33-56](https://github.com/user-attachments/assets/cc3f49f8-a8ee-41e4-9002-1b09daa73b44)
-
+####
 ```
 4. 엄지 방향 사진 학습
 ```
 
 ![Screenshot from 2024-11-21 20-15-42](https://github.com/user-attachments/assets/a9084f30-7b82-4cbb-94a6-bd2273331c10)
-
+####
 ```
 5. 엄지 방향 사진 예측 완료
 ```
