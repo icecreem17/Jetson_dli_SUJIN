@@ -14,6 +14,51 @@ day 1 :
 ![KakaoTalk_20241128_214356790_04](https://github.com/user-attachments/assets/1bc22d5f-6785-476f-ac9a-f135a0e2cbf7)
 
 ```
+2. 우분투 설치
+```
+
+![KakaoTalk_20241128_214356790_06](https://github.com/user-attachments/assets/4b14d757-ca1a-4d19-bf7a-0f4fcaffb056)
+![KakaoTalk_20241128_214356790_12](https://github.com/user-attachments/assets/b11d5f87-b292-4c07-9d8c-0d6a85fe0b8f)
+![KakaoTalk_20241128_214356790_16](https://github.com/user-attachments/assets/5c4005e4-fa96-47de-9ac6-5ac0b3910a3b)
+![KakaoTalk_20241128_214356790_17](https://github.com/user-attachments/assets/48ab2db5-89b9-417a-807a-5b7fc9f931b3)
+![KakaoTalk_20241128_214356790_20](https://github.com/user-attachments/assets/cb21e048-b21a-482b-9f8d-634485670470)
+![KakaoTalk_20241128_214356790_22](https://github.com/user-attachments/assets/51633137-b97f-449c-8a09-5c6f78a6ec1e)
+![KakaoTalk_20241128_214356790_24](https://github.com/user-attachments/assets/4436a9e9-db3c-44a0-8b99-c82eaad342dd)
+![KakaoTalk_20241128_214356790_26](https://github.com/user-attachments/assets/c929d2a8-beb0-4b5a-a261-baef39327d08)
+![KakaoTalk_20241128_214356790_28](https://github.com/user-attachments/assets/47a1c001-c143-431b-b514-861efb227cd7)
+![KakaoTalk_20241128_214356790_29](https://github.com/user-attachments/assets/aee9b4e0-6780-4ef0-acba-e928affd6af3)
+![KakaoTalk_20241128_214356790_30](https://github.com/user-attachments/assets/9f88e68e-61e5-471d-929c-d351c24c8dcc)
+![KakaoTalk_20241128_215122143_05](https://github.com/user-attachments/assets/c7fdf4c7-c706-465f-8e3a-eeeba64e7a6b)
+![KakaoTalk_20241128_215122143_06](https://github.com/user-attachments/assets/af0d4989-abee-4526-bb51-b2532081b657)
+![KakaoTalk_20241128_215122143_08](https://github.com/user-attachments/assets/b48c60c4-aa59-4f3c-8a87-5834e51799a5)
+![KakaoTalk_20241128_215122143_12](https://github.com/user-attachments/assets/32e79e12-0922-4293-9217-bbe66d048d15)
+![KakaoTalk_20241128_215122143_14](https://github.com/user-attachments/assets/49ade21d-a3af-4635-a03a-5a3f2c3843aa)
+![KakaoTalk_20241128_215122143_15](https://github.com/user-attachments/assets/6159f73f-805a-484f-b3b9-2388ee6ccbd0)
+![KakaoTalk_20241128_215122143_17](https://github.com/user-attachments/assets/c95807d0-4bbe-4ec8-b5f5-a5c0cdcfc87b)
+![KakaoTalk_20241128_215122143_18](https://github.com/user-attachments/assets/ae50df59-96ef-43fa-a0d9-86e638e95146)
+![KakaoTalk_20241128_215122143_19](https://github.com/user-attachments/assets/3d77df6f-0ff0-4d9a-b201-8dc84d2dff2e)
+![KakaoTalk_20241128_215122143_21](https://github.com/user-attachments/assets/3263f7eb-895d-4bb7-8be7-e3aba589c84a)
+![KakaoTalk_20241128_215122143_22](https://github.com/user-attachments/assets/5828ac46-de94-413e-93e6-8cf08725c402)
+![KakaoTalk_20241128_215122143_23](https://github.com/user-attachments/assets/3de86873-b4b9-4252-a88a-472b54de5b6e)
+![KakaoTalk_20241128_215122143_24](https://github.com/user-attachments/assets/bdef3423-d426-4aaf-adb3-d9a915b7e8a9)
+![KakaoTalk_20241128_215122143_25](https://github.com/user-attachments/assets/8c33fbe3-9deb-49a7-912b-323b1f0d9ccb)
+![KakaoTalk_20241128_215122143_26](https://github.com/user-attachments/assets/bd2d09fa-d29c-421d-bee4-adaa42f379a3)
+![KakaoTalk_20241128_215122143_28](https://github.com/user-attachments/assets/9d038fcb-3435-4bb4-9bec-5b983047220b)
+![KakaoTalk_20241128_215122143_29](https://github.com/user-attachments/assets/c8c6cc3a-d95d-4612-9213-36895f6110e6)
+![KakaoTalk_20241128_215141595_02](https://github.com/user-attachments/assets/f7dce8e4-fcf5-4de0-af0f-b5ab9ec1159d)
+![KakaoTalk_20241128_215141595_04](https://github.com/user-attachments/assets/80d9d093-4d5f-4e84-b0ce-0a96d1f37363)
+![KakaoTalk_20241128_215141595_05](https://github.com/user-attachments/assets/aedcd221-7d2b-4f8e-b1c2-94324350168b)
+![KakaoTalk_20241128_215141595_06](https://github.com/user-attachments/assets/9ce59ff2-547c-4c79-b45d-17fe69eef8aa)
+![KakaoTalk_20241128_215141595_07](https://github.com/user-attachments/assets/80d1186a-c0d1-4b41-82b5-4bd142c9383d)
+![KakaoTalk_20241128_215141595_08](https://github.com/user-attachments/assets/f158951f-d387-44e6-8731-4caf60857506)
+![KakaoTalk_20241128_215141595_09](https://github.com/user-attachments/assets/9de4399b-457f-4f23-ab09-2e91577308e0)
+![KakaoTalk_20241128_215141595_12](https://github.com/user-attachments/assets/c9bdb197-d3f2-4921-b06d-42ec0268fabf)
+![KakaoTalk_20241128_215141595_14](https://github.com/user-attachments/assets/18cf6daa-1836-4e0a-bddb-835961929f68)
+![KakaoTalk_20241128_215141595_15](https://github.com/user-attachments/assets/21d843cb-2993-4d9a-b65f-c94e2d94d5b0)
+![KakaoTalk_20241128_215141595_16](https://github.com/user-attachments/assets/0aec0515-3358-42de-a6d5-82ffba3369a8)
+![KakaoTalk_20241128_215141595_17](https://github.com/user-attachments/assets/9787bb6d-34c8-42f6-8ffa-118f4538b00e)
+
+```
 잭슨 나노 한글 설치
 ```
 
