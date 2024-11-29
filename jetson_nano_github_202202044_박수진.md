@@ -1,12 +1,11 @@
 # Jetson_dli_SUJIN
 
-   잭슨 나노 일대기
-===============
+## 잭슨 나노 일대기
 
-###      day 1 : 
+#### day 1 : 
 
 ```
-       1. 잭슨 나노 조립
+1. 잭슨 나노 조립
 ```
 
 ![KakaoTalk_20241128_214356790_04](https://github.com/user-attachments/assets/1bc22d5f-6785-476f-ac9a-f135a0e2cbf7)
