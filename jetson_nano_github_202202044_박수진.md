@@ -47,7 +47,7 @@ day 1 :
 ![KakaoTalk_20241128_215122143_29](https://github.com/user-attachments/assets/c8c6cc3a-d95d-4612-9213-36895f6110e6)
 
 ```
-잭슨 나노 한글 설치
+4. 잭슨 나노 한글 설치
 ```
 
 ![KakaoTalk_20241128_215141595_02](https://github.com/user-attachments/assets/f7dce8e4-fcf5-4de0-af0f-b5ab9ec1159d)
